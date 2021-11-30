@@ -1,4 +1,4 @@
-# Moderasyon Botu
+# 🛠 Moderasyon Botu 🛠
 
 Bu Bot Altyapısı YouTube Murat Eren'e aittir 
 
